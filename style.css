@@ -43,6 +43,6 @@ body{
 }
 #box-6{
     grid-column: 4/5;
-    grid-row: 2/4;
+    grid-row: 2/4; 
 }
 
